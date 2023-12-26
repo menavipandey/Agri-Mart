@@ -1,1 +1,2 @@
-# MinorProject
+# Agrimart
+mern stack ecommerce project 
