@@ -60,8 +60,8 @@ To set up the project locally, follow these steps:
 5. **Set up environment variables:**
    Create a `.env` file in the `server` directory and add the following:
    ```env
-   MONGO_URI=your_mongo_db_connection_string
-   JWT_SECRET=your_jwt_secret
+   MONGO_URI="mongodb+srv://admin:admin@cluster0.xr4jxcj.mongodb.net/?retryWrites=true&w=majority"
+   JWT_SECRET=HGFHGEAD1212432432
    ```
 
 6. **Start the server:**
@@ -120,7 +120,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any inquiries or feedback, please contact us at:
-- **Email:** support@agrimart.com
-- **Website:** [agrimart.com](http://agrimart.com)
+- **Email:** navipandey67@gmail.com
 
 Thank you for using AgriMart – your farm-to-table solution!
