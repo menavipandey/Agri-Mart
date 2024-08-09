@@ -60,7 +60,7 @@ To set up the project locally, follow these steps:
 5. **Set up environment variables:**
    Create a `.env` file in the `server` directory and add the following:
    ```env
-   MONGO_URIuse_your_Mongodb_url"
+   MONGO_URI ="use_your_Mongodb_url"
    JWT_SECRET=use_you_jwt_secret_key
    ```
 
